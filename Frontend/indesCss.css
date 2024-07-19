@@ -3,11 +3,6 @@
   margin: auto;
 }
 
-
-/*body {
-    min-width: 500px;
-}*/
-
 div {
   border-radius: 5px;
 }
@@ -18,10 +13,6 @@ div {
   background-color: #ffcccc;
   position: fixed;
   z-index: 1;
-}
-
-#title {
-  margin-left: 3%;
 }
 
 #footer {
@@ -86,4 +77,10 @@ a {
     width: 100%;
     margin-left: 10px;
   }
+}
+
+.profile-pic {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
 }
